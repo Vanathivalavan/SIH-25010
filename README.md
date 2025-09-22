@@ -58,4 +58,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Research and References
 <h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<p> Risk and Vulnerability Assessment of Indian Agriculture to Climate Change (ICAR-CRIDA, 2020)
+Climate Change and Indian Agriculture: A Systematic Review (2022)
+Climate Change and Risk Management in Indian Agriculture (NABARD, 2020)
+</p>
