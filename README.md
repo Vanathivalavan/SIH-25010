@@ -60,8 +60,10 @@ Agriculture, FoodTech & Rural Development
 <p> The Smart Crop Advisory System for environmental and climate risks empowers small and marginal farmers to make data-driven decisions that reduce vulnerability to droughts, floods, heatwaves, and pest outbreaks. By providing climate-resilient crop recommendations, efficient irrigation guidance, and eco-friendly pest and fertilizer management, it helps increase yields and incomes while minimizing environmental damage. Integration with government schemes ensures financial protection through subsidies and crop insurance. The system also promotes sustainable farming practices, conserves soil and water resources, and builds community resilience, creating long-term social, economic, and environmental benefits for rural agricultural regions.</p>
 
 ## Research and References
-<h3>Remove These Lines</h3>
+<h3>REFERENCES</h3>
 <p> Risk and Vulnerability Assessment of Indian Agriculture to Climate Change (ICAR-CRIDA, 2020)
+  
 Climate Change and Indian Agriculture: A Systematic Review (2022)
+
 Climate Change and Risk Management in Indian Agriculture (NABARD, 2020)
 </p>
